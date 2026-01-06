@@ -1,3 +1,4 @@
+google.com, pub-9512690302189827, DIRECT, f08c47fec0942fa0
 applovin.com, d82d8dbe7e2f5dde4d95f17c25ad40ac, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -353,4 +354,3 @@ playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 smartclip.net, 15458, RESELLER
 smartclip.net, 27985, RESELLER
-google.com, pub-9512690302189827, DIRECT, f08c47fec0942fa0
